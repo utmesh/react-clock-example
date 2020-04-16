@@ -1,0 +1,14 @@
+.GhadiBody{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.GhadiBody .switchAndCalendar{
+    display: flex;
+    justify-content: center;
+    margin: 65px
+}
+

@@ -12,3 +12,21 @@
     margin: 65px
 }
 
+.GhadiBody .circleStyle{
+    width: 250px;
+    height: 250px;
+    align-self: center;
+    border-radius: 159px;
+    background-color: darkgray;
+    display:inline-block
+
+
+}
+
+.GhadiBody .circleStyle .textDisplay{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 18px;
+    color: blue;
+
+}
